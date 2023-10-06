@@ -12,7 +12,7 @@
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurrajsahu)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/?dispatcher_command=master_lookup#inbox?compose=CllgCJZbjcVNgHdCzHKRtmPcbKVzBjKjJFZFGdSgljBLTmrKshMGkTZGPlHDsJsSKRDgbTfvMZg)
-  [![Website](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](www.ankurraj.com)
+  [![Website](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)](http://www.ankurraj.com.s3-website-ap-northeast-1.amazonaws.com)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.nkurraj/)
  
 # 💻 Tech Stack:
