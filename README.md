@@ -7,7 +7,6 @@
 
 > <p style="color: white;"><strong><em>"You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity." - John Romero</em></strong></p>
 
-![Sky Blue Quote](https://placehold.it/400x2/87CEEB/000000?text=+)
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankurrajsahu)
