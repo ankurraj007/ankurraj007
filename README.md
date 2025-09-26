@@ -1,11 +1,4 @@
-👋 Hello techies! ||
-🚀 Full-stack Developer || 🌐 Tech Enthusiast || 💡 Problem Solver ||
-🌐 Passionate about web development, from front-end design to back-end architecture. ||
-🔧 Always eager to learn and explore new technologies. ||
-📚 Constantly expanding my knowledge in the ever-evolving tech landscape.
-
-
-> <p style="color: white;"><strong><em>"You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity." - John Romero</em></strong></p>
+ <p style="color: white;"><strong><em>"You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity." - John Romero</em></strong></p>
 
 
 ## 🌐 Socials:
